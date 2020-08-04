@@ -4,4 +4,4 @@ Generating Patterns by applying a kernel of Logic Gates to an initial array of b
 
 Check it out here: https://wally869.github.io/LogicGatesDrawer/
 
-![DisplayApp](img/appDisplay.jpg)
+![DisplayApp](img/appDisplay.JPG)
